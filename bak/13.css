@@ -1,0 +1,65 @@
+@media (min-width: 768px) {
+  header,
+  footer,
+  section {
+    padding: 10px 5%;
+  }
+}
+
+body,
+header,
+section,
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+body {
+  color: #333;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header,
+footer {
+  background-color: #024959;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+li {
+  line-height: 1.6;
+  padding-left: 20px;
+  margin-bottom: 5px;
+}
+p {
+  line-height: 1.6;
+}
+
+#real_money {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png")
+    no-repeat left center;
+  background-size: 16px;
+}
+
+#guitar {
+  background: url("https://d1nhio0ox7pgb.cloudfront.net/_img/i_collection_png/512x512/plain/guitar.png")
+    no-repeat left center;
+  background-size: 16px;
+}

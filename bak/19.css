@@ -1,0 +1,25 @@
+.mainbox {
+  border: 2px solid beige;
+  padding: 12px;
+  box-shadow: 0 1px 20px 0 rgba(225, 131, 37, 0.1);
+}
+
+.one {
+  background-color: beige;
+  padding: 12px;
+}
+
+.two {
+  background-color: rgb(244, 244, 200);
+  padding: 12px;
+}
+
+.three {
+  background-color: rgb(244, 244, 186);
+  padding: 12px;
+}
+
+.four {
+  background-color: rgb(246, 246, 148);
+  padding: 12px;
+}

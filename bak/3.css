@@ -1,0 +1,40 @@
+h2 span {
+  color: rgb(96, 169, 171);
+}
+
+ul#hobbies {
+  display: flex;
+  gap: 12px;
+}
+
+ul#hobbies li {
+  border-radius: 9999px;
+  padding: 8px;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul#hobbies li.first {
+  background-color: #f5f500;
+}
+ul#hobbies li.second {
+  background-color: #c9c9c9;
+}
+ul#hobbies li.third {
+  background-color: #a22d33;
+}
+ul#hobbies li.fourth {
+  background-color: #3f50b5;
+}
+ul#hobbies li.fifth {
+  background-color: #2196f3;
+}
+
+li span {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}

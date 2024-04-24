@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 3px solid pink;
+  padding: 3px;
+}
+
+.desc {
+  margin-bottom: 20px;
+}
+
+.desc p {
+  color: black;
+  margin: 0;
+  padding: 5px 0;
+}
+
+.like p {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 0 10px 0;
+}
+
+ul {
+  margin: 0;
+  padding: 5px 0;
+  background-color: rgb(255, 226, 231);
+  border-radius: 40px 80px;
+  list-style: none;
+}
+
+li {
+  padding: 3px;
+}
+
+span {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+footer {
+  margin-top: 20px;
+}

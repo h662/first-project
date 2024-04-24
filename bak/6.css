@@ -1,0 +1,36 @@
+h1 {
+  background-color: gainsboro;
+  color: rgb(7, 111, 203);
+}
+body,
+h1,
+h3 {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  min-width: fit-content;
+}
+
+.one {
+  background-color: rgb(225, 225, 220);
+}
+
+.two {
+  background-color: rgb(205, 225, 225);
+}
+
+.three {
+  color: chocolate;
+}
+
+.mainbox {
+  width: 610px;
+  padding: 30px;
+  margin: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ebba82;
+  box-shadow: 0 1px 20px 0 rgba(225, 131, 37, 0.1);
+}

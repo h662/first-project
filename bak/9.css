@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+  background-color: rgb(81, 159, 227);
+  border-radius: 5px;
+}
+
+main {
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.lang {
+  color: rgb(28, 28, 218);
+  font-weight: bold;
+}
+
+.goal {
+  text-decoration: underline;
+  text-decoration-color: red;
+  font-style: italic;
+}

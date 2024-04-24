@@ -1,0 +1,32 @@
+h1 {
+  background-color: brown;
+  color: aqua;
+}
+
+.end {
+  background-color: yellowgreen;
+}
+
+#first {
+  background-color: skyblue;
+  color: whitesmoke;
+}
+
+.second {
+  background-color: #f857a6;
+  color: whitesmoke;
+}
+
+.third {
+  background-color: #ff5858;
+  color: whitesmoke;
+}
+
+.hi {
+  text-align: center;
+}
+
+.interest {
+  text-align: center;
+  color: cornflowerblue;
+}

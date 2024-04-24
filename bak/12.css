@@ -1,0 +1,44 @@
+#one {
+  background-color: #111111;
+}
+
+#two {
+  background-color: #222222;
+}
+
+#three {
+  width: 33%;
+  background-color: #333333;
+  float: left;
+}
+
+#four {
+  width: 33%;
+  background-color: #444444;
+  float: left;
+}
+
+#five {
+  background-color: #555555;
+}
+
+#six {
+  background-color: #666666;
+  text-align: center;
+}
+
+#seven {
+  background-color: #777777;
+}
+
+.text {
+  color: #dddddd;
+  font-weight: bold;
+}
+
+dl {
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 5px;
+  overflow: hidden;
+}

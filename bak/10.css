@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+h1 {
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+}
+
+h4 {
+  background-color: pink;
+  font-size: 20px;
+  text-align: center;
+  color: red;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-style: italic;
+}
+
+main {
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 20px;
+}
+li {
+  background-color: pink;
+}
+
+.three {
+  background-color: chocolate;
+  color: black;
+  text-align: center;
+  margin: 3px;
+  padding: 3px;
+}
+
+.four {
+  background-color: palevioletred;
+  color: aqua;
+  text-align: center;
+  margin: 4px;
+  padding: 4px;
+}
+
+footer {
+  text-align: center;
+}

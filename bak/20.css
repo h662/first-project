@@ -1,0 +1,39 @@
+h1 {
+  background-color: aqua;
+  color: brown;
+}
+
+.three {
+  background-color: rgb(233, 229, 230);
+  margin: 12px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+#four {
+  background-color: rgb(158, 155, 155);
+  margin: 12px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.five {
+  background-color: rgb(240, 240, 171);
+  margin-left: 10px;
+  align-item: center;
+  text-align: center;
+}
+
+li {
+  background-color: black;
+}
+
+main {
+  border: 10px solid rgb(120, 113, 155);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border-radius: 9999999px;
+}
